@@ -1,12 +1,7 @@
 # Gabriela Perez
-### Estudante de Análise e Desenvolvimento de Sistemas | Em busca da primeira oportunidade na área de TI
-*São Paulo, SP - Brasil*
+### Estudante de Análise e Desenvolvimento de Sistemas | Em busca da primeira oportunidade na área de tecnologia
 
-<p>
-   Estudante de Análise e Desenvolvimento de Sistemas | Profissional com grande interesse em tecnologia e desenvolvimento web <br>
-   Em busca da minha primeira oportunidade de estágio na área de TI <br>
-   Focada no desenvolvimento contínuo, buscando contribuir com soluções inovadoras e eficientes.<br>
-</p>
+
 
 ---
 
