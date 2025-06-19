@@ -1,6 +1,6 @@
-👋 Olá, eu sou a Gabriela Perez!</h1>
-
-<p> São Paulo - SP, Brasil</p>
+# Gabriela Perez
+### Estudante de Análise e Desenvolvimento de Sistemas | Em busca da primeira oportunidade na área de TI
+*São Paulo, SP - Brasil*
 
 <p>
    Estudante de Análise e Desenvolvimento de Sistemas | 💻 Profissional com grande interesse em tecnologia e desenvolvimento web <br>
