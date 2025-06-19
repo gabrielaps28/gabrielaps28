@@ -1,8 +1,8 @@
-<h1 align="center">👋 Olá, eu sou a Gabriela Perez!</h1>
+👋 Olá, eu sou a Gabriela Perez!</h1>
 
-<p align="center">📍 São Paulo - SP, Brasil</p>
+<p> São Paulo - SP, Brasil</p>
 
-<p align="center">
+<p>
    Estudante de Análise e Desenvolvimento de Sistemas | 💻 Profissional com grande interesse em tecnologia e desenvolvimento web <br>
    Em busca da minha primeira oportunidade de estágio na área de TI <br>
    Focada no desenvolvimento contínuo, buscando contribuir com soluções inovadoras e eficientes.<br>
@@ -22,7 +22,7 @@ Profissional dedicada, com foco em aprendizado contínuo e motivada a colaborar 
 
 ---
 
-## 🚀 Tecnologias que estou trabalhando / aprendendo:
+##Tecnologias que estou trabalhando / aprendendo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
