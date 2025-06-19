@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ Sobre Mim
+## Sobre Mim
 
 Sou uma estudante de **Análise e Desenvolvimento de Sistemas**, natural de **São Paulo - SP**, com grande interesse em **Desenvolvimento Web** e **Programação**.
 
@@ -33,14 +33,14 @@ Profissional dedicada, com foco em aprendizado contínuo e motivada a colaborar 
 
 ---
 
-## 🌐 Onde me encontrar:
+### Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielapzsouza/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielaps28)  
 
 ---
 
-## 📈 Minhas estatísticas no GitHub:
+## estatísticas no GitHub:
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielaps28&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -49,7 +49,7 @@ Profissional dedicada, com foco em aprendizado contínuo e motivada a colaborar 
 
 ---
 
-## 📚 Atualmente estudando:
+## Atualmente estudando:
 
 - ✔️ JavaScript (nível básico, em evolução)
 - ✔️ Python (lógica de programação e pequenos projetos)
