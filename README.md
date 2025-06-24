@@ -7,13 +7,13 @@
 
 ## Sobre Mim
 
-Sou uma estudante de **Análise e Desenvolvimento de Sistemas**, natural de **São Paulo - SP**, com grande interesse em **Desenvolvimento Web** e **Programação**.
 
-Tenho conhecimento em **HTML5**, **CSS3**, **Python** e **JavaScript (nível básico)**. Estou sempre buscando evoluir minhas habilidades através de cursos, projetos pessoais e desafios práticos.
+Atualmente, curso o 2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo, com foco em Desenvolvimento Web e Programação.
 
-Meu principal objetivo é colocar em prática o que venho aprendendo e, ao mesmo tempo, adquirir experiência profissional no mercado de tecnologia.
+Tenho conhecimentos em HTML5, CSS3, Python e JavaScript (nível básico), e estou sempre buscando novos aprendizados por meio de cursos online, projetos pessoais e desafios que contribuem para minha evolução técnica.
 
-Profissional dedicada, com foco em aprendizado contínuo e motivada a colaborar ativamente no desenvolvimento de soluções em projetos reais.
+Busco oportunidades para aplicar e aprofundar os conhecimentos adquiridos na graduação, contribuindo para projetos que promovam inovação e crescimento.
+
 
 ---
 
