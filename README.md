@@ -1,6 +1,6 @@
-<h2 align="center">Oi! Eu sou a Gabriela </h2>
+<h2 align="left">Oi! Eu sou a Gabriela </h2>
 
-<p align="center">
+<p align="left">
   Estudante de Análise e Desenvolvimento de Sistemas<br>
   Em busca do meu primeiro estágio na área de tecnologia <br>
   Comprometida em aprender e aplicar conhecimentos para criar soluções reais
