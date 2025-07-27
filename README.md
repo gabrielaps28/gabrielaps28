@@ -31,9 +31,8 @@
 
 ###  Onde me encontrar
 
--  [LinkedIn](https://www.linkedin.com/in/gabrielapzsouza/)
--  [GitHub](https://github.com/gabrielaps28)
--  Email: gabriela.perez.souza@hotmail.com
+-  LinkedIn https://www.linkedin.com/in/gabrielapzsouza/
+-  Email gabriela.perez.souza@hotmail.com
 
 ---
 
