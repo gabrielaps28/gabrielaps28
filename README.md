@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  ✨ Obrigada por visitar meu perfil! ✨<br>
+   Obrigada por visitar meu perfil! <br>
 </p>
